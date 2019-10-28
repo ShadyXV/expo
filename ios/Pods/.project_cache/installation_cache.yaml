@@ -4023,7 +4023,7 @@ CACHE_KEYS:
   EXBarCodeScanner:
     BUILD_SETTINGS_CHECKSUM:
       EXBarCodeScanner: c06a8c2afadc1774924492df5e33b587
-    CHECKSUM: 60f8b22e1352c8eb512f5a6cd9b3d630088b1f43
+    CHECKSUM: 77ed0e13a913858a65fb809cc2d980a0c66e38e4
     FILES:
       - "../../packages/expo-barcode-scanner/ios/EXBarCodeScanner/EXBarCodeScanner.h"
       - "../../packages/expo-barcode-scanner/ios/EXBarCodeScanner/EXBarCodeScanner.m"
@@ -4915,16 +4915,16 @@ CACHE_KEYS:
       - nanopb/encode (0.3.901)
   Pods-Exponent:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: a82867764ef21a5cb8bc4ae268c18729
-      Release: a82867764ef21a5cb8bc4ae268c18729
+      Debug: 7c9f77800dd4f5fbe998423968ae8732
+      Release: 7c9f77800dd4f5fbe998423968ae8732
   Pods-ExponentIntegrationTests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 9e2d976aed5e064fca7a32a03a96f102
-      Release: 9e2d976aed5e064fca7a32a03a96f102
+      Debug: 0f856eb18b4cfd63ab12af8167b26da6
+      Release: 0f856eb18b4cfd63ab12af8167b26da6
   Pods-Tests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 9e2d976aed5e064fca7a32a03a96f102
-      Release: 9e2d976aed5e064fca7a32a03a96f102
+      Debug: 0f856eb18b4cfd63ab12af8167b26da6
+      Release: 0f856eb18b4cfd63ab12af8167b26da6
   Protobuf:
     BUILD_SETTINGS_CHECKSUM:
       Protobuf: e9ec876cfd5ece357978b5d515d5282c
@@ -7646,10 +7646,11 @@ CACHE_KEYS:
       - yogaABI35_0_0 (0.59.8.React)
   ZXingObjC:
     BUILD_SETTINGS_CHECKSUM:
-      ZXingObjC: dc2797b982cd9ecd3eb02dc36633cdde
+      ZXingObjC: d3ecdae7b9cd1c5943e115b6207f0009
     CHECKSUM: fdbb269f25dd2032da343e06f10224d62f537bdb
     PROJECT_NAME: ZXingObjC
     SPECS:
       - ZXingObjC/Core (3.6.5)
+      - ZXingObjC/OneD (3.6.5)
       - ZXingObjC/PDF417 (3.6.5)
 OBJECT_VERSION: 46
